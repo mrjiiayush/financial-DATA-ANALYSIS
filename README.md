@@ -16,7 +16,7 @@ Getting Started
 
 
 Clone the Repository: Begin by cloning the repository to your local machine. You can do this using the following command in your terminal:
-git clone https://mrjiiayush/financial-data-analysis-power-bi.git
+git clone(https://github.com/mrjiiayush/financial-DATA-ANALYSIS-by-Power-Bi)
 Open the Power BI Report: Once the repository has been cloned, open the Power BI report file (financial_data.pbix) in Power BI Desktop.
 
 Explore the Dashboards: The Power BI report will contain a number of different dashboards, each of which focuses on a specific aspect of the financial data. You can use the slicers and filters on the dashboards to interact with the data and gain insights.
