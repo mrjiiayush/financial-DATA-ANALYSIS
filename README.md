@@ -24,8 +24,10 @@ Explore the Dashboards: The Power BI report will contain a number of different d
 Tech Stack
 
 Microsoft Power BI
-License
+STEPS INVOLVED:-
+1. CLEANING OF DATA
+2. DATA CRUNCHING
+3. 
 
-You can specify the license that you want to use for your project. A popular option for open-source projects is the MIT License. You can find the text of the MIT License here.
 
 I hope this helps!
